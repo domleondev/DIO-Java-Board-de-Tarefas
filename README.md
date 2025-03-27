@@ -26,7 +26,7 @@ DBeaver (Gerenciador de banco de dados)
 
 Docker (Para conteinerização do MySQL)
 
-Maven (Gerenciamento de dependências)
+Gradle (Gerenciamento de dependências)
 
 Hibernate (ORM para manipulação do banco)
 
